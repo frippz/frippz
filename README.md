@@ -4,7 +4,9 @@ I'm Fredrik. I've been doing stuff on the web since the 90s, which means that I'
 
 I keep writing things in Python as well, and I'm not entirely sure that's the best of ideas sometimes, but that doesn't stop me.
 
-Here's a bunch of icons (as in things I like to work with).
+## Here's a bunch of icons
+
+_…as in things I like to work with_
 
 <img alt="html5" src="https://github.com/frippz/frippz/assets/16304/167db90c-38bc-4c14-a164-dd5244e4d128" width="40" />
 <img alt="css3" src="https://github.com/frippz/frippz/assets/16304/54e7fdb8-5b3e-455c-8a2e-169726c5c6dd" width="40" />
@@ -18,5 +20,7 @@ Here's a bunch of icons (as in things I like to work with).
 <img alt="ubuntu" src="https://github.com/frippz/frippz/assets/16304/3adc8e59-af4a-45f4-a5e4-6a83ff61fcbc" width="40" />
 <img alt="linux" src="https://github.com/frippz/frippz/assets/16304/21fe1f75-4d3d-4426-9511-2776034d802a" width="40" />
 <img alt="cloudflare" src="https://github.com/frippz/frippz/assets/16304/250cc3f2-29df-4e78-8397-ddf7420b921c" width="40" />
+
+## Stats for nerds 🤓
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=frippz)](https://github.com/LordDashMe/github-contribution-stats/)
