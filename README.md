@@ -4,7 +4,7 @@ I'm Fredrik. I've been doing stuff on the web since the 90s, which means that I'
 
 I keep writing things in Python as well, and I'm not entirely sure that's the best of ideas sometimes, but that doesn't stop me.
 
-## Here's a bunch of icons
+## Here's a bunch of pretty icons
 
 _…as in things I like to work with_
 
