@@ -24,3 +24,7 @@ _…as in things I like to work with_
 ## Stats for nerds 🤓
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=frippz)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=frippz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frippz)](https://github.com/anuraghazra/github-readme-stats)
