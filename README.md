@@ -6,6 +6,4 @@ I'm a tech-oriented designer that started designing more with HTML and CSS than 
 
 I keep writing things in Python as well, and I'm not entirely sure that's the best of ideas sometimes, but that doesn't stop me.
 
-## Stats for nerds 🤓
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=frippz)](https://github.com/LordDashMe/github-contribution-stats/)
